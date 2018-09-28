@@ -12,9 +12,9 @@ A Cycling '74 Max patch to create a unique QuNeo instrument
 * Volume
 * Pitch shift
 * Speed of groove (limited)
-** Metronome determines how fast we increment
-** Factor for scaling how much we increment metronome
-** Position in slider determines what speed (in ms) the metronome is going
+  * Metronome determines how fast we increment
+  * Factor for scaling how much we increment metronome
+  * Position in slider determines what speed (in ms) the metronome is going
 
 ## Rotary Tasks
 * Forward/backwards play w/ speed control (faster)
